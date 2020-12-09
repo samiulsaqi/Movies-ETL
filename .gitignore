@@ -133,3 +133,4 @@ archive/
 archive.zip
 movies_metadata.csv
 ratings.csv
+config.py
